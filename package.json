@@ -1,0 +1,16 @@
+{
+  "name": "map_reduce",
+  "version": "0.0.1",
+  "description": "Pesquisa sobre algumas funções baseadas em programação funcional",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roberto Oliveira <robertooliveiraestudo@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "ejs": "^2.4.1",
+    "express": "^4.13.4"
+  }
+}
